@@ -1,2 +1,2 @@
-# Practice Python 
-This repository for practice Python exercise.
+# Practice Code and Project
+This repository for practice Code and Project.
