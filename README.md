@@ -1,2 +1,2 @@
-# pesonal_project
-This repository for personal project
+# Practice Python 
+This repository for practice Python exercise.
